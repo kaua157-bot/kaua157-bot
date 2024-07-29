@@ -2,9 +2,9 @@
 
 Meu nome e Kauã Winicios
 
--Sou um estudante do  Gallo
+- Sou um estudante do  Gallo
 
--Estou me desenvolvendo na plataforma Alura 
+- Estou me desenvolvendo na plataforma Alura 
 
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
